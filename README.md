@@ -8,8 +8,6 @@ This is a cool data pack that was made so that you could play minecraft but as y
 
 ## Getting Started
 
-WARNING: Please use on a new world as this once loaded will summon tnt at your feet.
-
 ### Installing
 
 * Click the green Code drop down in the top right
