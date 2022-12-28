@@ -8,15 +8,13 @@ This is a cool data pack that was made so that you could play minecraft but as y
 
 ## Getting Started
 
+WARNING: Please use on a new world as this once loaded will summon tnt at your feet.
+
 ### Installing
 
 * Download Here: [Releases](https://github.com/FADEDElement/TNTMode/releases)
-* Unzip the TNT Mode.zip file
-* Move the TNT Mode folder into MCFunction folder in your desired world
+* Move the TNT Mode .zip file into MCFunction folder in your desired world
 * Go into the world and us /reload
-
-## What I used / learned
-* 
 
 ## Authors
 
@@ -28,7 +26,6 @@ Contributors names and contact info
 
 * 1.0
     * Initial Release
-    * 
 
 ## License
 
