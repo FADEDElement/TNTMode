@@ -4,7 +4,7 @@ Minecraft minigame inspired by Technoblades tnt in survival video!
 
 ## Description
 
-This is a cool data pack that was made so that you could play minecraft but as you run around every 10 seconds tnt spawns at your feet and when you kill the Ender Dragon it stops and resets so that you can remove it or play again! Good Look Have fun!
+This is a cool data pack that was made so that you could play minecraft but as you run around every 10 seconds tnt spawns at your feet and when you kill the Ender Dragon the game ends! Good Look Have fun!
 
 ## Getting Started
 
