@@ -11,11 +11,9 @@ This is a cool data pack that was made so that you could play minecraft but as y
 ### Installing
 
 * Download Here: [Releases](https://github.com/FADEDElement/TNTMode/releases)
-
-### Executing program
-
 * Unzip the TNT Mode.zip file
-* Move the TNT Mode folder into MCFunction folder 
+* Move the TNT Mode folder into MCFunction folder in your desired world
+* Go into the world and us /reload
 
 ## What I used / learned
 * 
