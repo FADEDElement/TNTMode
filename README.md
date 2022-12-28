@@ -12,9 +12,10 @@ WARNING: Please use on a new world as this once loaded will summon tnt at your f
 
 ### Installing
 
-* Download Here: [Releases](https://github.com/FADEDElement/TNTMode/releases)
-* Move the TNT Mode .zip file into MCFunction folder in your desired world
-* Go into the world and us /reload
+* Click the green Code drop down in the top right
+* And Click Download .zip
+* Move the .zip file into MCFunction folder in your desired world
+* Go into the world and use /reload
 
 ## Authors
 
