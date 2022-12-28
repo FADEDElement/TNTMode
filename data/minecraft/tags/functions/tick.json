@@ -1,5 +1,5 @@
 {
 	"values": [
-	"tntmode:tick"
+		"tntmode:loop"
 	]
 }

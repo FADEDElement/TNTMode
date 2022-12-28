@@ -1,0 +1,10 @@
+execute if score timer TNTMode matches 20 run title @a actionbar {"text":"---===( 10s )===---","bold":true,"color":"green"}
+execute if score timer TNTMode matches 40 run title @a actionbar {"text":"---===( 9s )===---","bold":true,"color":"green"}
+execute if score timer TNTMode matches 60 run title @a actionbar {"text":"---===( 8s )===---","bold":true,"color":"green"}
+execute if score timer TNTMode matches 80 run title @a actionbar {"text":"---===( 7s )===---","bold":true,"color":"green"}
+execute if score timer TNTMode matches 100 run title @a actionbar {"text":"---===( 6s )===---","bold":true,"color":"yellow"}
+execute if score timer TNTMode matches 120 run title @a actionbar {"text":"---===( 5s )===---","bold":true,"color":"yellow"}
+execute if score timer TNTMode matches 140 run title @a actionbar {"text":"---===( 4s )===---","bold":true,"color":"yellow"}
+execute if score timer TNTMode matches 160 run title @a actionbar {"text":"---===( 3s )===---","bold":true,"color":"dark_red"}
+execute if score timer TNTMode matches 180 run title @a actionbar {"text":"---===( 2s )===---","bold":true,"color":"dark_red"}
+execute if score timer TNTMode matches 200 run title @a actionbar {"text":"---===( 1s )===---","bold":true,"color":"dark_red"}
