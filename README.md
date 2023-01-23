@@ -12,7 +12,7 @@ This is a cool data pack that was made so that you could play minecraft but as y
 
 * Click the green Code drop down in the top right
 * And Click Download .zip
-* Move the .zip file into MCFunction folder in your desired world
+* Move the .zip file into Datapack folder in your desired world
 * Go into the world and use /reload
 
 ## Authors
